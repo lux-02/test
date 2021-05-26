@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://lux-02.netlify.app/sitemap.xml
